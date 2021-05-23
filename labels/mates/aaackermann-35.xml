@@ -1,7 +1,7 @@
 <annotation>
 	<folder>mates</folder>
 	<filename>aaackermann-35.jpg</filename>
-	<path>/home/alfredo/workspacerobots/mate-detection/images/mates/aaackermann-35.jpg</path>
+	<path>/home/alfredo/workspacerobots/repo/mate-detection/images/mates/aaackermann-35.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -20,6 +20,18 @@
 			<xmin>162</xmin>
 			<ymin>244</ymin>
 			<xmax>680</xmax>
+			<ymax>985</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>metal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>254</ymin>
+			<xmax>677</xmax>
 			<ymax>985</ymax>
 		</bndbox>
 	</object>
