@@ -1,7 +1,7 @@
 <annotation>
-	<folder>7570</folder>
+	<folder>images</folder>
 	<filename>lolguin-30.jpeg</filename>
-	<path>C:\Personal\7570\lolguin-30.jpeg</path>
+	<path>C:\Personal\7570\images\lolguin-30.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -20,7 +20,19 @@
 			<xmin>17</xmin>
 			<ymin>142</ymin>
 			<xmax>92</xmax>
-			<ymax>246</ymax>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastico</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>142</ymin>
+			<xmax>95</xmax>
+			<ymax>244</ymax>
 		</bndbox>
 	</object>
 </annotation>

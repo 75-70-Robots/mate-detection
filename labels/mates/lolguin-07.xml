@@ -1,7 +1,7 @@
 <annotation>
-	<folder>7570</folder>
+	<folder>images</folder>
 	<filename>lolguin-07.jpeg</filename>
-	<path>C:\Personal\7570\lolguin-07.jpeg</path>
+	<path>C:\Personal\7570\images\lolguin-07.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>106</xmin>
-			<ymin>421</ymin>
+			<xmin>104</xmin>
+			<ymin>423</ymin>
 			<xmax>413</xmax>
-			<ymax>790</ymax>
+			<ymax>793</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>calabaza</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>115</xmin>
+			<ymin>419</ymin>
+			<xmax>413</xmax>
+			<ymax>727</ymax>
 		</bndbox>
 	</object>
 </annotation>
