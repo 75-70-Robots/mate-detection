@@ -12,18 +12,6 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>mate calabaza</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>223</xmin>
-			<ymin>326</ymin>
-			<xmax>678</xmax>
-			<ymax>770</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>mate</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>

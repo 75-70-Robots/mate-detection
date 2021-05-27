@@ -12,18 +12,6 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>mate madera</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>263</xmin>
-			<ymin>416</ymin>
-			<xmax>597</xmax>
-			<ymax>945</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>madera</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
