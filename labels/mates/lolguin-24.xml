@@ -1,7 +1,7 @@
 <annotation>
-	<folder>7570</folder>
+	<folder>images</folder>
 	<filename>lolguin-24.jpeg</filename>
-	<path>C:\Personal\7570\lolguin-24.jpeg</path>
+	<path>C:\Personal\7570\images\lolguin-24.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>62</xmin>
+			<xmin>61</xmin>
+			<ymin>276</ymin>
+			<xmax>252</xmax>
+			<ymax>524</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>madera</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
 			<ymin>273</ymin>
-			<xmax>249</xmax>
-			<ymax>529</ymax>
+			<xmax>250</xmax>
+			<ymax>532</ymax>
 		</bndbox>
 	</object>
 </annotation>
