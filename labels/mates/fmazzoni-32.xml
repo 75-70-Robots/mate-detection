@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>plástico</name>
+		<name>plastico</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
